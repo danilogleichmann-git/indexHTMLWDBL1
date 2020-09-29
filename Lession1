@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- bot will pick up this website now as 'demo --> '
+    <meta name="description" content="demo">
+  </head>
+
+    <!-- Comments!!!
+    -->
+
+    <!-- Common tags!!!
+
+  -->
+<body>
+<!-- HEADERS -->
+  <h1 class="headers" id="header1" >Some Text</h1>
+    <h2 class="headers" id="header2">Some Text</h3>
+      <h3 class="headers" id="header3">Some Text</h3>
+
+      <p class="ad">Some Text</p>
+
+<!-- P-tags -->
+  <p>This is a paragraph </p>
+
+  <a href='https://webatberkeley.ord'>Click Me</a
+  	>
+<div>
+  	<ol>
+  		<li>List item 1</li>
+  		<li>List item 2</li>
+  		<li>List item 3</li>
+
+  	</ol>
+<!-- puts list in one cohesive unit -->
+      <ul>
+        <li>List item 1</li>
+        <li>List item 2</li>
+        <li>List item 3</li>
+      </ul>
+</div>
+
+<body>
+You are learning!
+
+</body>
+
+  <div> <!-- makes all (ex: buttons) one unit (of buttons), helpful for other languages ex CSS -->
+
+
+    <button class="ad">Click Me!</button>
+
+    <button>
+    <!-- the anchor only attached to what it is nested too...this case the image -->
+      <a href='https://webatberkeley.org'> <!-- allows for going to the website by clicking the image -->
+    <img src="./wdb.png" alt="This is an image! A WDB LOGO in awesome Neon colors" />
+    </a
+    <button/>
+
+
+
+  </div>
+  <body>
+
+
+  </body>
+</html>
